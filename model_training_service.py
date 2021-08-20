@@ -1,5 +1,4 @@
 from training_data import defaultPrompt
-from const import API_KEY
 import openai
 
 

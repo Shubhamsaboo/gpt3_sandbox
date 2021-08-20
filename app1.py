@@ -25,7 +25,7 @@ def app():
     
     st.write(f"""
         ###  🐾 **About the Sandbox**
-        - This is an open-source 🔧 and it is alive thanks to the awesome GPT-3 community. If you'd like to contribute, please check [Collaboration Guidelines](https://github.com/Shubhamsaboo/kairos_gpt3/blob/main/CONTRIBUTE.md)
+        - This is an open-source 🔧 and it is alive thanks to the awesome GPT-3 community. If you'd like to contribute, please check [Collaboration Guidelines](https://github.com/Shubhamsaboo/kairos_gpt3/blob/master/CONTRIBUTE.md)
         - If you are curious about what _exactly_ went behind this sandbox, check out the [source code](https://github.com/Shubhamsaboo/kairos_gpt3)
         - We are still working on it and we'd ❤️ to hear from you! If you have ideas how to improve the Sandbox, let us know [here](sandra@kairosdatalabs.com)
         """)
