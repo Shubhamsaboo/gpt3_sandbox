@@ -27,7 +27,7 @@ def app():
 
         st.write(f"""
         ### 🎨 How to create an example application
-        - To create an app with a basic flow, you can use our default template for [Email Generation App](https://github.com/Shubhamsaboo/kairos_gpt3/blob/master/CONTRIBUTE.md)
+        - To create an app with a basic flow, you can use our default template for [Email Generation App](https://github.com/Shubhamsaboo/kairos_gpt3/blob/master/GPT-3%20Sandbox/email_generation)
         - This template has a flow that will work well for a couple of basic use-cases and you can use it just by replacing the default [training prompt](https://github.com/Shubhamsaboo/kairos_gpt3/blob/master/GPT-3%20Sandbox/email_generation/training_data.py) with your application specifc prompt
         - To test the application, provide a one-line task description in the -> **Input** text box
         - You would then get an **Output** -> that should give you a good feeling of how to structure your application specifc tasks
