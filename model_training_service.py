@@ -19,7 +19,7 @@ class Code:
 
         # arguments to send the API
         kwargs = {
-            "engine": "davinci",
+            "engine": "text-davinci-002",
             "temperature": 0.50,
             "max_tokens": 70,
             "best_of": 2,
