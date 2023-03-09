@@ -9,7 +9,6 @@ def app():
     api_key = st.sidebar.text_input("OpenAI API Key:", type="password")
 
     # Using the streamlit cache 
-    @st.cache
     def process_prompt(input):
         return pred.model_prediction(input=input, api_key=api_key)
     
