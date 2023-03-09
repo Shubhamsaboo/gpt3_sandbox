@@ -1,4 +1,5 @@
 from training_data import defaultPrompt
+from const import API_KEY
 import openai
 
 
@@ -19,7 +20,7 @@ class Code:
 
         # arguments to send the API
         kwargs = {
-            "engine": "text-davinci-002",
+            "engine": "text-davinci-003",
             "temperature": 0.50,
             "max_tokens": 70,
             "best_of": 2,
